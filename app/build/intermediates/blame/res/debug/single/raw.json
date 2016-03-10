@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/gorio/Projetos/android-network-discovery/app/build/intermediates/res/merged/debug/raw/saves.bin",
+        "source": "/home/gorio/Projetos/android-network-discovery/app/src/main/res/raw/saves.bin"
+    },
+    {
+        "merged": "/home/gorio/Projetos/android-network-discovery/app/build/intermediates/res/merged/debug/raw/services.bin",
+        "source": "/home/gorio/Projetos/android-network-discovery/app/src/main/res/raw/services.bin"
+    }
+]

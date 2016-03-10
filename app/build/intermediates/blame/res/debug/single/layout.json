@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/gorio/Projetos/android-network-discovery/app/build/intermediates/res/merged/debug/layout/list_host.xml",
+        "source": "/home/gorio/Projetos/android-network-discovery/app/src/main/res/layout/list_host.xml"
+    },
+    {
+        "merged": "/home/gorio/Projetos/android-network-discovery/app/build/intermediates/res/merged/debug/layout/portscan.xml",
+        "source": "/home/gorio/Projetos/android-network-discovery/app/src/main/res/layout/portscan.xml"
+    },
+    {
+        "merged": "/home/gorio/Projetos/android-network-discovery/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/gorio/Projetos/android-network-discovery/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/gorio/Projetos/android-network-discovery/app/build/intermediates/res/merged/debug/layout/donate.xml",
+        "source": "/home/gorio/Projetos/android-network-discovery/app/src/main/res/layout/donate.xml"
+    },
+    {
+        "merged": "/home/gorio/Projetos/android-network-discovery/app/build/intermediates/res/merged/debug/layout/list_port.xml",
+        "source": "/home/gorio/Projetos/android-network-discovery/app/src/main/res/layout/list_port.xml"
+    },
+    {
+        "merged": "/home/gorio/Projetos/android-network-discovery/app/build/intermediates/res/merged/debug/layout/discovery.xml",
+        "source": "/home/gorio/Projetos/android-network-discovery/app/src/main/res/layout/discovery.xml"
+    },
+    {
+        "merged": "/home/gorio/Projetos/android-network-discovery/app/build/intermediates/res/merged/debug/layout/dialog_edittext.xml",
+        "source": "/home/gorio/Projetos/android-network-discovery/app/src/main/res/layout/dialog_edittext.xml"
+    },
+    {
+        "merged": "/home/gorio/Projetos/android-network-discovery/app/build/intermediates/res/merged/debug/layout/scan_single.xml",
+        "source": "/home/gorio/Projetos/android-network-discovery/app/src/main/res/layout/scan_single.xml"
+    },
+    {
+        "merged": "/home/gorio/Projetos/android-network-discovery/app/build/intermediates/res/merged/debug/layout/help.xml",
+        "source": "/home/gorio/Projetos/android-network-discovery/app/src/main/res/layout/help.xml"
+    }
+]

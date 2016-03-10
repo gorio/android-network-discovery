@@ -1,0 +1,123 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/gorio/Projetos/android-network-discovery/app/src/main/AndroidManifest.xml:6:1-75:12
+	package
+		ADDED from /home/gorio/Projetos/android-network-discovery/app/src/main/AndroidManifest.xml:8:5-42
+		INJECTED from /home/gorio/Projetos/android-network-discovery/app/src/main/AndroidManifest.xml
+		INJECTED from /home/gorio/Projetos/android-network-discovery/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/gorio/Projetos/android-network-discovery/app/src/main/AndroidManifest.xml:10:5-32
+		INJECTED from /home/gorio/Projetos/android-network-discovery/app/src/main/AndroidManifest.xml
+		INJECTED from /home/gorio/Projetos/android-network-discovery/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/gorio/Projetos/android-network-discovery/app/src/main/AndroidManifest.xml:9:5-29
+		INJECTED from /home/gorio/Projetos/android-network-discovery/app/src/main/AndroidManifest.xml
+		INJECTED from /home/gorio/Projetos/android-network-discovery/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/gorio/Projetos/android-network-discovery/app/src/main/AndroidManifest.xml:7:5-63
+	android:installLocation
+		ADDED from /home/gorio/Projetos/android-network-discovery/app/src/main/AndroidManifest.xml:11:5-45
+application
+ADDED from /home/gorio/Projetos/android-network-discovery/app/src/main/AndroidManifest.xml:13:5-65:19
+	android:label
+		ADDED from /home/gorio/Projetos/android-network-discovery/app/src/main/AndroidManifest.xml:15:9-41
+	android:debuggable
+		ADDED from /home/gorio/Projetos/android-network-discovery/app/src/main/AndroidManifest.xml:16:9-35
+	android:icon
+		ADDED from /home/gorio/Projetos/android-network-discovery/app/src/main/AndroidManifest.xml:14:9-38
+activity#info.lamatricexiste.network.ActivityMain
+ADDED from /home/gorio/Projetos/android-network-discovery/app/src/main/AndroidManifest.xml:18:9-26:20
+	android:label
+		ADDED from /home/gorio/Projetos/android-network-discovery/app/src/main/AndroidManifest.xml:20:13-45
+	android:configChanges
+		ADDED from /home/gorio/Projetos/android-network-discovery/app/src/main/AndroidManifest.xml:21:13-72
+	android:name
+		ADDED from /home/gorio/Projetos/android-network-discovery/app/src/main/AndroidManifest.xml:19:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/gorio/Projetos/android-network-discovery/app/src/main/AndroidManifest.xml:22:13-25:29
+action#android.intent.action.MAIN
+ADDED from /home/gorio/Projetos/android-network-discovery/app/src/main/AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from /home/gorio/Projetos/android-network-discovery/app/src/main/AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/gorio/Projetos/android-network-discovery/app/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /home/gorio/Projetos/android-network-discovery/app/src/main/AndroidManifest.xml:24:27-74
+activity#info.lamatricexiste.network.ActivityDiscovery
+ADDED from /home/gorio/Projetos/android-network-discovery/app/src/main/AndroidManifest.xml:28:9-31:75
+	android:label
+		ADDED from /home/gorio/Projetos/android-network-discovery/app/src/main/AndroidManifest.xml:30:13-45
+	android:configChanges
+		ADDED from /home/gorio/Projetos/android-network-discovery/app/src/main/AndroidManifest.xml:31:13-72
+	android:name
+		ADDED from /home/gorio/Projetos/android-network-discovery/app/src/main/AndroidManifest.xml:29:13-46
+activity#info.lamatricexiste.network.ActivityPortscan
+ADDED from /home/gorio/Projetos/android-network-discovery/app/src/main/AndroidManifest.xml:33:9-49:20
+	android:label
+		ADDED from /home/gorio/Projetos/android-network-discovery/app/src/main/AndroidManifest.xml:35:13-45
+	android:configChanges
+		ADDED from /home/gorio/Projetos/android-network-discovery/app/src/main/AndroidManifest.xml:36:13-60
+	android:name
+		ADDED from /home/gorio/Projetos/android-network-discovery/app/src/main/AndroidManifest.xml:34:13-45
+intent-filter#.SCAN_HOST+android.intent.category.DEFAULT
+ADDED from /home/gorio/Projetos/android-network-discovery/app/src/main/AndroidManifest.xml:37:13-48:29
+action#.SCAN_HOST
+ADDED from /home/gorio/Projetos/android-network-discovery/app/src/main/AndroidManifest.xml:38:17-53
+	android:name
+		ADDED from /home/gorio/Projetos/android-network-discovery/app/src/main/AndroidManifest.xml:38:25-50
+category#android.intent.category.DEFAULT
+ADDED from /home/gorio/Projetos/android-network-discovery/app/src/main/AndroidManifest.xml:39:17-76
+	android:name
+		ADDED from /home/gorio/Projetos/android-network-discovery/app/src/main/AndroidManifest.xml:39:27-73
+activity#info.lamatricexiste.network.Utils.Prefs
+ADDED from /home/gorio/Projetos/android-network-discovery/app/src/main/AndroidManifest.xml:51:9-59:20
+	android:label
+		ADDED from /home/gorio/Projetos/android-network-discovery/app/src/main/AndroidManifest.xml:53:13-45
+	android:configChanges
+		ADDED from /home/gorio/Projetos/android-network-discovery/app/src/main/AndroidManifest.xml:54:13-72
+	android:name
+		ADDED from /home/gorio/Projetos/android-network-discovery/app/src/main/AndroidManifest.xml:52:13-40
+intent-filter#android.intent.category.DEFAULT+android.intent.category.PREFERENCE
+ADDED from /home/gorio/Projetos/android-network-discovery/app/src/main/AndroidManifest.xml:55:13-58:29
+category#android.intent.category.PREFERENCE
+ADDED from /home/gorio/Projetos/android-network-discovery/app/src/main/AndroidManifest.xml:57:17-79
+	android:name
+		ADDED from /home/gorio/Projetos/android-network-discovery/app/src/main/AndroidManifest.xml:57:27-76
+activity#info.lamatricexiste.network.Utils.Help
+ADDED from /home/gorio/Projetos/android-network-discovery/app/src/main/AndroidManifest.xml:61:9-63:48
+	android:label
+		ADDED from /home/gorio/Projetos/android-network-discovery/app/src/main/AndroidManifest.xml:63:13-45
+	android:name
+		ADDED from /home/gorio/Projetos/android-network-discovery/app/src/main/AndroidManifest.xml:62:13-39
+supports-screens
+ADDED from /home/gorio/Projetos/android-network-discovery/app/src/main/AndroidManifest.xml:67:5-25
+uses-sdk
+ADDED from /home/gorio/Projetos/android-network-discovery/app/src/main/AndroidManifest.xml:69:5-72
+	android:targetSdkVersion
+		ADDED from /home/gorio/Projetos/android-network-discovery/app/src/main/AndroidManifest.xml:69:41-69
+		INJECTED from /home/gorio/Projetos/android-network-discovery/app/src/main/AndroidManifest.xml
+		INJECTED from /home/gorio/Projetos/android-network-discovery/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/gorio/Projetos/android-network-discovery/app/src/main/AndroidManifest.xml:69:15-40
+		INJECTED from /home/gorio/Projetos/android-network-discovery/app/src/main/AndroidManifest.xml
+		INJECTED from /home/gorio/Projetos/android-network-discovery/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/gorio/Projetos/android-network-discovery/app/src/main/AndroidManifest.xml:70:5-67
+	android:name
+		ADDED from /home/gorio/Projetos/android-network-discovery/app/src/main/AndroidManifest.xml:70:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/gorio/Projetos/android-network-discovery/app/src/main/AndroidManifest.xml:71:5-79
+	android:name
+		ADDED from /home/gorio/Projetos/android-network-discovery/app/src/main/AndroidManifest.xml:71:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /home/gorio/Projetos/android-network-discovery/app/src/main/AndroidManifest.xml:72:5-76
+	android:name
+		ADDED from /home/gorio/Projetos/android-network-discovery/app/src/main/AndroidManifest.xml:72:22-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/gorio/Projetos/android-network-discovery/app/src/main/AndroidManifest.xml:73:5-81
+	android:name
+		ADDED from /home/gorio/Projetos/android-network-discovery/app/src/main/AndroidManifest.xml:73:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from /home/gorio/Projetos/android-network-discovery/app/src/main/AndroidManifest.xml:74:5-66
+	android:name
+		ADDED from /home/gorio/Projetos/android-network-discovery/app/src/main/AndroidManifest.xml:74:22-63

@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "/home/gorio/Projetos/android-network-discovery/app/build/intermediates/res/merged/debug/drawable/open.png",
+        "source": "/home/gorio/Projetos/android-network-discovery/app/src/main/res/drawable/open.png"
+    },
+    {
+        "merged": "/home/gorio/Projetos/android-network-discovery/app/build/intermediates/res/merged/debug/drawable/arrow_right.png",
+        "source": "/home/gorio/Projetos/android-network-discovery/app/src/main/res/drawable/arrow_right.png"
+    },
+    {
+        "merged": "/home/gorio/Projetos/android-network-discovery/app/build/intermediates/res/merged/debug/drawable/disabled.png",
+        "source": "/home/gorio/Projetos/android-network-discovery/app/src/main/res/drawable/disabled.png"
+    },
+    {
+        "merged": "/home/gorio/Projetos/android-network-discovery/app/build/intermediates/res/merged/debug/drawable/wifi.png",
+        "source": "/home/gorio/Projetos/android-network-discovery/app/src/main/res/drawable/wifi.png"
+    },
+    {
+        "merged": "/home/gorio/Projetos/android-network-discovery/app/build/intermediates/res/merged/debug/drawable/btn_donate.png",
+        "source": "/home/gorio/Projetos/android-network-discovery/app/src/main/res/drawable/btn_donate.png"
+    },
+    {
+        "merged": "/home/gorio/Projetos/android-network-discovery/app/build/intermediates/res/merged/debug/drawable/router.png",
+        "source": "/home/gorio/Projetos/android-network-discovery/app/src/main/res/drawable/router.png"
+    },
+    {
+        "merged": "/home/gorio/Projetos/android-network-discovery/app/build/intermediates/res/merged/debug/drawable/closed.png",
+        "source": "/home/gorio/Projetos/android-network-discovery/app/src/main/res/drawable/closed.png"
+    },
+    {
+        "merged": "/home/gorio/Projetos/android-network-discovery/app/build/intermediates/res/merged/debug/drawable/connect.png",
+        "source": "/home/gorio/Projetos/android-network-discovery/app/src/main/res/drawable/connect.png"
+    },
+    {
+        "merged": "/home/gorio/Projetos/android-network-discovery/app/build/intermediates/res/merged/debug/drawable/computer.png",
+        "source": "/home/gorio/Projetos/android-network-discovery/app/src/main/res/drawable/computer.png"
+    },
+    {
+        "merged": "/home/gorio/Projetos/android-network-discovery/app/build/intermediates/res/merged/debug/drawable/settings.png",
+        "source": "/home/gorio/Projetos/android-network-discovery/app/src/main/res/drawable/settings.png"
+    },
+    {
+        "merged": "/home/gorio/Projetos/android-network-discovery/app/build/intermediates/res/merged/debug/drawable/discover.png",
+        "source": "/home/gorio/Projetos/android-network-discovery/app/src/main/res/drawable/discover.png"
+    },
+    {
+        "merged": "/home/gorio/Projetos/android-network-discovery/app/build/intermediates/res/merged/debug/drawable/computer_down.png",
+        "source": "/home/gorio/Projetos/android-network-discovery/app/src/main/res/drawable/computer_down.png"
+    },
+    {
+        "merged": "/home/gorio/Projetos/android-network-discovery/app/build/intermediates/res/merged/debug/drawable/cancel.png",
+        "source": "/home/gorio/Projetos/android-network-discovery/app/src/main/res/drawable/cancel.png"
+    },
+    {
+        "merged": "/home/gorio/Projetos/android-network-discovery/app/build/intermediates/res/merged/debug/drawable/back.png",
+        "source": "/home/gorio/Projetos/android-network-discovery/app/src/main/res/drawable/back.png"
+    },
+    {
+        "merged": "/home/gorio/Projetos/android-network-discovery/app/build/intermediates/res/merged/debug/drawable/drawer_bg.xml",
+        "source": "/home/gorio/Projetos/android-network-discovery/app/src/main/res/drawable/drawer_bg.xml"
+    },
+    {
+        "merged": "/home/gorio/Projetos/android-network-discovery/app/build/intermediates/res/merged/debug/drawable/install.png",
+        "source": "/home/gorio/Projetos/android-network-discovery/app/src/main/res/drawable/install.png"
+    },
+    {
+        "merged": "/home/gorio/Projetos/android-network-discovery/app/build/intermediates/res/merged/debug/drawable/icon.png",
+        "source": "/home/gorio/Projetos/android-network-discovery/app/src/main/res/drawable/icon.png"
+    },
+    {
+        "merged": "/home/gorio/Projetos/android-network-discovery/app/build/intermediates/res/merged/debug/drawable/btn_bg.xml",
+        "source": "/home/gorio/Projetos/android-network-discovery/app/src/main/res/drawable/btn_bg.xml"
+    },
+    {
+        "merged": "/home/gorio/Projetos/android-network-discovery/app/build/intermediates/res/merged/debug/drawable/export.png",
+        "source": "/home/gorio/Projetos/android-network-discovery/app/src/main/res/drawable/export.png"
+    }
+]

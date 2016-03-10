@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/gorio/Projetos/android-network-discovery/app/build/intermediates/transforms/instantRunSlicer/debug/jars/1/5/main_sliceb.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="11d6803414a9204b57f1e97f7947dd3dc0f12b10">
+        <dex dex="/home/gorio/Projetos/android-network-discovery/app/build/intermediates/transforms/dex/debug/folders/1000/5/main_sliceb_ad4a9cba40482c8748d6165cfeb0079831fa39c8/classes.dex" />
+    </item>
+    <item
+        jar="/home/gorio/Projetos/android-network-discovery/app/build/intermediates/transforms/instantRunSlicer/debug/jars/1/5/main_slice.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="37030ca0ca216887585bcd905662f6f565e4e4fe">
+        <dex dex="/home/gorio/Projetos/android-network-discovery/app/build/intermediates/transforms/dex/debug/folders/1000/5/main_slice_bbe3d74907a8ab886f29a9edb266e9e1b36a0cac/classes.dex" />
+    </item>
+
+</items>
